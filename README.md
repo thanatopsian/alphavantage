@@ -1,2 +1,2 @@
 # alphavantage
-alphavantage api
+A basic wrapper for the alphavantage api.
